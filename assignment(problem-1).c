@@ -11,7 +11,7 @@ printf("Enter theta:");
 scanf("%lf",&theta);
 printf("Enter d(in micrometer):");
 scanf("%lf",&d);
-d=d*1000; // convert d µm to nm
+d=d*1000; // convert d Âµm to nm
 double pi=3.1416;
 double radian= theta*(pi/180.0);
 
@@ -37,7 +37,7 @@ return 0;
 /*Group-07
 ID:232-115-208
 ID:232-115-221
-ID:232-115-221
+ID:232-115-239
 ID:232-115-237
 */
 
